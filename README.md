@@ -274,6 +274,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - A browser extension that displays real-time on-page SEO data in a persistent side panel, with one-click export to text reports.
 
+- [AI Visibility Optimization](https://chromewebstore.google.com/detail/ai-visibility-tool/ngcgekeijfhojjpecbjijmadjibfceod) - Chrome extension that perform AI visibility audit. Following recommendations you can enhance your website's search engine visibility.
   
 ## Validator / Checker
 
